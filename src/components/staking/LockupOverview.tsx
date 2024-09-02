@@ -32,7 +32,7 @@ export default function LockupOverview() {
               height={0}
               className="w-[24px] h-auto mt-[-15px]"
             />
-            <div className="w-[115px]">
+            <div className="w-[115px]">  
               <p className="text-[#7E7E7E] ml-[5px] text-[16px]">
                 LITHO Locked:
               </p>
@@ -43,7 +43,7 @@ export default function LockupOverview() {
           </div>
           <p className="sm:text-right text-left text-[16px]">
             100,000,000.00 LITHO (10.000%)
-          </p>
+          </p> 
         </div>
         <div className="w-full flex sm:flex-row flex-col sm:items-center items-start justify-between mt-[20px]">
           <div className="inline-flex items-center w-[160px]">
@@ -57,10 +57,10 @@ export default function LockupOverview() {
             <p className="text-[#7E7E7E] ml-[5px] text-[16px]">
               Circulating Supply:
             </p>
-          </div>
+          </div> 
           <p className="sm:text-right text-left text-[16px]">
             900,000,000.00 LITHO
-          </p>
+          </p> 
         </div>
       </div>
       <div className="w-full h-[20px] dashboard:hidden block"></div>
